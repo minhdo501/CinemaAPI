@@ -1,0 +1,126 @@
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.csproj.AssemblyReference.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.AssemblyInfoInputs.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.AssemblyInfo.cs
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.csproj.CoreCompileInputs.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\appsettings.json
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.exe
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.deps.json
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.runtimeconfig.json
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.runtimeconfig.dev.json
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\ref\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.pdb
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\staticwebassets\CinemaApi.StaticWebAssets.Manifest.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\staticwebassets\CinemaApi.StaticWebAssets.xml
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\scopedcss\bundle\CinemaApi.styles.css
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.RazorTargetAssemblyInfo.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.csproj.CopyComplete
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\ref\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.pdb
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.genruntimeconfig.cache
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\AuthenticationPlugin.dll
+C:\Users\minhd\OneDrive\Desktop\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\appsettings.json
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.exe
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.deps.json
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.runtimeconfig.json
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.runtimeconfig.dev.json
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\ref\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\CinemaApi.pdb
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\AuthenticationPlugin.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.csproj.AssemblyReference.cache
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.AssemblyInfoInputs.cache
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.AssemblyInfo.cs
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.csproj.CoreCompileInputs.cache
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\staticwebassets\CinemaApi.StaticWebAssets.Manifest.cache
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\staticwebassets\CinemaApi.StaticWebAssets.xml
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\scopedcss\bundle\CinemaApi.styles.css
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.RazorTargetAssemblyInfo.cache
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.csproj.CopyComplete
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\ref\CinemaApi.dll
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.pdb
+C:\Users\minhd\OneDrive\Desktop\.NET Training\API Net Core Example\CinemaApi\CinemaApi\obj\Debug\net5.0\CinemaApi.genruntimeconfig.cache
